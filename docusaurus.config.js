@@ -86,7 +86,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Rixzty/kirikinowiki.github.io/',
+            'https://github.com/Rixzty/kirikinowiki.github.io/blob/main/',
         },
         blog: {
           showReadingTime: true,
