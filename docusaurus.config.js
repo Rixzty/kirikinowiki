@@ -6,6 +6,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'rixzty', // Usually your GitHub org/user name.
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'es',
+    locales: ['es'],
+  },
   themeConfig: {
     navbar: {
       title: 'IMTGida',
