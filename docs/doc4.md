@@ -1,5 +1,5 @@
 ---
-id: filtro-youtube
+id: filtro-yt
 title: YouTubeko Filtroa
 ---
 
