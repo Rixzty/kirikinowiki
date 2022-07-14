@@ -1,6 +1,6 @@
 module.exports = {
   title: 'IMTGida',
-  tagline: 'The tagline of my site',
+  tagline: 'IMTLazarusen informazioa, erabilera, etab.',
   url: 'https://kirikinowiki-github-io.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
