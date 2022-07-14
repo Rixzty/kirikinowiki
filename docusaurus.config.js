@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'rixzty', // Usually your GitHub org/user name.
-  projectName: 'kirikiwiki.github.io', // Usually your repo name.
+  projectName: 'kirikinowiki.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'IMTGida',
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/rixzty/kirikiwiki.github.io',
+          href: 'https://github.com/Rixzty/kirikinowiki.github.io',
           label: 'GitHub',
           position: 'right',
         },
