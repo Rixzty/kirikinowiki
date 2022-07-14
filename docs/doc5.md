@@ -10,4 +10,4 @@ Orain, interneteko filtroak sortzeko, goian ezker aldean dauden hiru lerroetan k
 
 Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun filtroak, izanez gero. Klikatu behar da **Berria sortu**, goian ezkerrean kokatuta dago.
 
-![imagen2](https://i.ibb.co/0tRzD6r/Screenshot-2022-07-14-17-30-59.png 'Logo Title Text 2)
+![imagen2](https://i.ibb.co/0tRzD6r/Screenshot-2022-07-14-17-30-59.png 'Logo Title Text 2')
