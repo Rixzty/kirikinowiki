@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
+  title: 'IMTGida',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://kirikinowiki-github-io.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'rixzty', // Usually your GitHub org/user name.
+  projectName: 'kirikiwiki.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'IMTGida',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Kirikiño',
         src: 'img/logo.svg',
       },
       links: [
