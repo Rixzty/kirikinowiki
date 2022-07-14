@@ -16,7 +16,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/hasiera',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
