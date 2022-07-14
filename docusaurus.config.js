@@ -22,7 +22,7 @@ module.exports = {
         {
           to: 'docs/hasiera',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Euskera',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
