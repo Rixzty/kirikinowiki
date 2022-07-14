@@ -4,7 +4,7 @@ title: Erabilera
 ---
 
 # Erabilera
-IMTLazarus erabilera konplexua du, haseko. Ziurtatu behar dugu pasahitza aldatu dugula gure IMT-eko sarbidean. Horretarako, egin klik [hemen](https://kirikino.imtlazarus.com/lazarus/recoverypass.php) eta sartu zure emaila, kontuan izan **Alexiako** emaila erabili beharko duzula, zure kontuan duzuna, emaila lotuta dagolako.
+IMTLazarus erabilera konplexua du. Haseko zihurtatu behar gara pasahitza aldatu dugula gure IMT-eko sarbidean. Horretarako, egin klik [hemen](https://kirikino.imtlazarus.com/lazarus/recoverypass.php) eta sartu zure emaila. Kontuan izan **Alexiako** email berdina erabili beharko duzula, emaila lotuta dagolako.
  
 Sarbidean gaudenean, klik egingo dugu **He olvidado mi password** eta gure emaila sartuko dugu, berriz **Alexiakoa**.
  
@@ -18,4 +18,4 @@ Izan daiteke **SPAM** fitxategira heltzea, hortaz, ez bazaizue heltzen 2 minutut
 
 :::
 
-Ostean, linka klikatu eta pasahitz berria sortu, behin hori eginda, berriro joan [sarbidera](https://kirikino.imtlazarus.com/lazarus), behin sarbidean, emaila eta pasahitza jarri eta panelaren barrura sartu ahalko zara, non Chromebook-a agertuko da kudeatzeko.
+Ostean, linka klikatu eta pasahitz berria sortu, behin hori eginda, berriro joan [sarbidera](https://kirikino.imtlazarus.com/lazarus), behin sarbidean, emaila eta pasahitza jarri eta panelaren barrura sartu ahalko zara, non Chromebook-a agertuko zaizue kudeatzeko.
