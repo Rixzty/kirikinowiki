@@ -11,7 +11,8 @@ module.exports = {
       title: 'IMTGida',
       logo: {
         alt: 'Kirikiño',
-        src: 'img/logo.svg',
+        src: 'img/kiriki.png',
+        srcDark: 'img/logo2.png',
       },
       links: [
         {
