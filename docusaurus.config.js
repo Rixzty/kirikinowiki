@@ -37,11 +37,11 @@ module.exports = {
           items: [
             {
               label: 'Style Guide',
-              to: 'docs/doc1',
+              to: 'docs/hasiera',
             },
             {
               label: 'Second Doc',
-              to: 'docs/doc2',
+              to: 'docs/erabilera',
             },
           ],
         },
