@@ -14,7 +14,7 @@ Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun f
 
 Honen ondoren, filtroari deskribapena eta izena jartzeko aukera dugu, izena jartzea beharrezkoa da, aldiz deskribapena jartzea aukerakoa da. Behean, 3 aukera agertuko zaizkigu, lehenengoan, bakoitzak bere filtroa zerotik egiteko da eta hurrengo bietan, filtroak sortuta daude edo orrialdeak berak, IMT Labarus, eskainitakoak, edo ikastetxearen eskutikoak. 
 
-:::caution
+:::info
 
 Aukera egin ondoren, sakatu ✅
 
