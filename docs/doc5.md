@@ -37,3 +37,9 @@ Aldaketak gordetzeko, gogoratu ✅ sakatu behar duzula, bestela ez dira aldaketa
 ![imagen4](https://i.ibb.co/0KywPcQ/Captura-de-pantalla-2022-07-15-121634.png 'Logo Title Text 4')
 ![imagen5](https://i.ibb.co/7XhRngz/Captura-de-pantalla-2022-07-15-121711.png 'Logo Title Text 5')
 ![imagen6](https://i.ibb.co/5Rh96kB/Captura-de-pantalla-2022-07-15-121740.png 'Logo Title Text 6')
+
+:::note
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
