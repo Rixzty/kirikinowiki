@@ -18,7 +18,6 @@ Gero, filtroari deskribapena eta izena jartzeko aukera agertuko zaigu, izena jar
 :::info
 
 Aukera egin ondoren, sakatu ✅
-
-
+:::
 ![imagen3](https://i.ibb.co/4MW6cQ9/youtube-libre.png 'Logo Title Text 3')
 
