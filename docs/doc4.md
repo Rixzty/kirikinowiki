@@ -24,6 +24,10 @@ Aukera egin ondoren, sakatu ✅
 ## FILTROAREN EGOKITZAPENA
 
 Jarraian, filtroa egokitu behar da bakoitzak nahi duen erara. 
+
+:::caution
+Aldaketak gordetzeko, gogoratu ✅ sakatu behar duzula, bestela ez dira aldaketak gordeko.
+:::
 * Murrizketa orokorrak: Hemen, bloketau daiteke YouTube aplikazioa, helduentzako edukia edo bertako elementuren bat.
 ![imagen4](https://i.ibb.co/ygrYCh1/youtube-filtros.png 'Logo Title Text 4')
 * Kategorien arabera blokeatu daiteke: Bloqueatu nahi dituzunak, aukeratu.
