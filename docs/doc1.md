@@ -8,7 +8,7 @@ title: HASIERA
 Webgune honetan IMTLazarus-en informazio guztia topatuko duzu, erabilera, informazioa, etab.
 
 ## Informazio Orokorra
-* Sistema honek, ordenagailuak blokeatzen du eta baita ere desblokeatzen du, klase orduetan blokeoa automatikoki jarriko da, eta arratsaldean, ikastola bukatu ostean, blokeoa automatikoki kenduko da. Baina horretarako konfigurazioa aldatu behar da. Ikastolak ez du baimenik edonorken profila ikutzen eta konfiguratzen. Gurasoak aldatu behar dute.
+* Sistema honek, ordenagailuak blokeatzen ditu eta baita ere desblokeatzen ditu, klase orduetan blokeoa automatikoki jarriko da, eta arratsaldean, ikastola bukatu ostean, blokeoa automatikoki kenduko da. Baina horretarako konfigurazioa aldatu behar da. Ikastolak ez du baimenik edonorken profila ikutzen eta konfiguratzen. Gurasoak aldatu behar dute.
 
 * Aldaketa hauek behin aplikatuta, sistema automatikoki egunero desblokea egingo du klaseak amaitu ostean, hortaz ez duzue egunero egin behar, sistemak automatikoki egingo du programatuta badago.
 
