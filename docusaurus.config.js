@@ -43,6 +43,7 @@ module.exports = {
         es: {
           label: 'Español',
         },
+      },
      },    
     footer: {
       style: 'dark',
