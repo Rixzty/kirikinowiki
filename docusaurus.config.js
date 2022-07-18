@@ -21,7 +21,12 @@ module.exports = {
           label: 'Euskera',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          to: 'docs/comienzo',
+          activeBasePath: 'docs',
+          label: 'Español',
+          position: 'left',
+        },
         {
           type: "localeDropdown",
           position: "right"
