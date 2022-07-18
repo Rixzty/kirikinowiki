@@ -30,7 +30,7 @@ module.exports = {
         {
           type: "localeDropdown",
           position: "left"
-        }
+        },
       ],
     },
     i18n: {
