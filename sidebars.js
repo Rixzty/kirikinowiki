@@ -4,4 +4,6 @@ module.exports = {
 		Filtroak: ['filtro-yt', 'filtro-internet'],
     Features: ['mdx'],
   },
+  EspañolSidebar: {
+    Sarrera: ['comienzo'],
 };
