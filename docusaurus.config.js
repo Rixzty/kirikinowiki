@@ -29,6 +29,16 @@ module.exports = {
         },
       ],
     },
+    i18n: {
+      defaultLocale: 'eu',
+      locales: ['eu', 'es'],
+      localeConfigs: {
+        eu: {
+          label: 'Euskera'
+        },
+        es: {
+          label: 'Español',
+        },
     footer: {
       style: 'dark',
       links: [
