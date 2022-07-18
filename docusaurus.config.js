@@ -27,6 +27,10 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          type: "localeDropdown",
+          position: "left"
+        }
       ],
     },
     i18n: {
