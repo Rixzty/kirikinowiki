@@ -34,10 +34,10 @@ module.exports = {
       ],
     },
     i18n: {
-      defaultLocale: 'eu',
-      locales: ['eu', 'es'],
+      defaultLocale: 'en',
+      locales: ['en', 'es'],
       localeConfigs: {
-        eu: {
+        en: {
           label: 'Euskera',
         },
         es: {
