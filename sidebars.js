@@ -5,5 +5,6 @@ module.exports = {
     Features: ['mdx'],
   },
   EspañolSidebar: {
-    Sarrera: ['comienzo'],
+    Introducción: ['comienzo'],
+  },
 };
