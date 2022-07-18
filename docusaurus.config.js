@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/comienzo',
+          to: 'docs/es/comienzo',
           activeBasePath: 'docs',
           label: 'Español',
           position: 'left',
