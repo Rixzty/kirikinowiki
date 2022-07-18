@@ -23,21 +23,21 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
+          type: "localeDropdown",
+          position: "left"
+        },
+        {
           href: 'https://github.com/Rixzty/kirikinowiki.github.io',
           label: 'GitHub',
           position: 'right',
         },
-        {
-          type: "localeDropdown",
-          position: "left"
-        },
       ],
     },
     i18n: {
-      defaultLocale: 'en',
-      locales: ['en', 'es'],
+      defaultLocale: 'eu',
+      locales: ['eu', 'es'],
       localeConfigs: {
-        en: {
+        eu: {
           label: 'Euskera',
         },
         es: {
