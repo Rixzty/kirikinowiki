@@ -38,7 +38,7 @@ module.exports = {
       locales: ['eu', 'es'],
       localeConfigs: {
         eu: {
-          label: 'Euskera'
+          label: 'Euskera',
         },
         es: {
           label: 'Español',
