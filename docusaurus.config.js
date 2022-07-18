@@ -19,12 +19,12 @@ module.exports = {
           to: 'docs/hasiera',
           activeBasePath: 'docs',
           label: 'Euskera',
-          position: 'right',
+          position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           type: "localeDropdown",
-          position: "left"
+          position: "right"
         },
         {
           href: 'https://github.com/Rixzty/kirikinowiki.github.io',
