@@ -1,0 +1,4 @@
+---
+id: funcionamiento
+title: Funcionamiento
+---
