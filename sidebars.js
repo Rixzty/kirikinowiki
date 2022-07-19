@@ -4,6 +4,7 @@ module.exports = {
 		Filtroak: ['filtro-yt', 'filtro-internet', 'filtro-librea'],
   },
   EspañolSidebar: {
-    Introducción: ['comienzo'],
+    Introducción: ['comienzo', 'funcionamiento', 'faq'],
+	        Filtros: ['yt-filtro', 'internet-filtro', 'filtro-libre'],
   },
 };
