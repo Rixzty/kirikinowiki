@@ -1,4 +1,4 @@
 ---
-id: filtro-libre
+id: filtro-librea
 title: GUZTIZ LIBRE
 ---
