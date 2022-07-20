@@ -34,6 +34,6 @@ A continuación, se personaliza el filtro a gusto de cada uno/a.
 * Palabras / Frases: Bloquea las palabras/frases que quieras, para ello escríbela/s y pulsa **+**.
 ![imagen6](https://i.ibb.co/stxmDD3/filtro-youtube.png 'Logo Title Text 6')
 * Canales y videos de YouTube: Para bloquear algún canal/video, escribe su url y pulsa **+**.
-![imagen7](https://i.ibb.co/yghqnCj/filtro-youutube.png'Logo Title Text 7')
+![imagen7](https://i.ibb.co/yghqnCj/filtro-youutube.png 'Logo Title Text 7')
 ![imagen8](https://i.ibb.co/FXjQFpm/youtube-filtroo.png 'Logo Title Text 8')
 
