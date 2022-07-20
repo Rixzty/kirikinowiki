@@ -1,6 +1,6 @@
 ---
 id: internet-filtro
-title: Filtro de Internet
+title: FILTRO DE INTERNET
 ---
 Ahora, para la creación de filtros de navegación, clicamos las tres líneas que tenemos arriba a la izquierda. Se nos abrirá un desplegable con cuatro opciones, seleccionamos la de **configuración**. A continuación, se nos volverá a abrir otro desplegable, en el que seleccionaremos en este caso **navegación**.
 
