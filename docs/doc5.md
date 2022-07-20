@@ -36,5 +36,5 @@ Jarraian, filtroa egokitu behar da bakoitzak nahi duen erara.
 ![imagen6](https://i.ibb.co/5Rh96kB/Captura-de-pantalla-2022-07-15-121740.png 'Logo Title Text 6')
 
 :::info
-**[Hemen](https://kirikino.wiki/docs/filtro-yt#filtroaren-egokitzapena), hau da YouTube-ko filtroan aurkituko dituzue egokitzapenerako azalpen sakonagoak behar izanez gero.**
+**[Hemen](https://kirikino.wiki/docs/filtro-yt#filtroaren-egokitzapena), hau da YouTube-ko filtroan, aurkituko dituzue egokitzapenerako azalpen sakonagoak behar izanez gero.**
 :::
