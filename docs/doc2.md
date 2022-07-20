@@ -1,6 +1,6 @@
 ---
-id: erabilera
-title: Erabilera
+id: 
+title: ERABILERA
 ---
 
 # Erabilera
