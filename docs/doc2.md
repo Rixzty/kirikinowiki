@@ -1,5 +1,5 @@
 ---
-id: ERABILERA
+id: erabilera
 title: ERABILERA
 ---
 
