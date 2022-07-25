@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Familientzako Babesa</>,
+    title: <>Protección para las Familias</>,
     imageUrl: 'img/casa.png',
     description: (
       <>
@@ -18,7 +18,7 @@ const features = [
     ),
   },
   {
-    title: <>Ikasleentzako Pentsatuta</>,
+    title: <>Pensado en los Alumnos</>,
     imageUrl: 'img/audience.png',
     description: (
       <>
@@ -29,7 +29,7 @@ const features = [
     ),
   },
   {
-    title: <>Segurtasuna Hezkuntza Zentroan</>,
+    title: <>Seguridad en el Centro Educativo</>,
     imageUrl: 'img/school.png',
     description: (
       <>
