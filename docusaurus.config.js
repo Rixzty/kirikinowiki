@@ -54,7 +54,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Garrantsitzuak',
+          title: 'Garrantzitsuak',
           items: [
             {
               label: 'IMTLazarus',
