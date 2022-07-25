@@ -72,7 +72,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/hasiera')}>
-              Get Started
+              Hasi!
             </Link>
           </div>
         </div>
