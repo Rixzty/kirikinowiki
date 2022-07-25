@@ -12,8 +12,8 @@ const features = [
     imageUrl: 'img/casa.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Babestu eta iragazi edukia haien adinerako egokiak ez diren 
+        orrialde gaiztoak bisitatzea eragotziz.
       </>
     ),
   },
@@ -22,8 +22,8 @@ const features = [
     imageUrl: 'img/audience.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Hezkuntza-sektoreak eta familiek adingabeek Interneten 
+        nabigazioa kontrolatzeko hainbat eskakizunek bultzatuta sortu zen.
       </>
     ),
   },
@@ -32,8 +32,8 @@ const features = [
     imageUrl: 'img/school.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Irakasleak ikasle bakoitzaren nabigazioaren eta gailuaren 
+        erabileraren kontrol osoa izango du berehalako ekintzen bidez.
       </>
     ),
   },
