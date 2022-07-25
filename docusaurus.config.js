@@ -54,45 +54,45 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Garrantsitzuak',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/hasiera',
+              label: 'IMTLazarus',
+              to: 'https://kirikino.imtlazarus.com/lazarus',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/erabilera',
+              label: 'Webgunea',
+              to: 'https://kirikino.eus',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Sare sozialak',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/kirikino_ikastola/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/kirikinoikastola',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UCsKuNuPlApDPNKpP_NFuTTA',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Gehiago',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Bloga',
+              to: 'https://www.kirikino.eus/kirikino_interaktiboa/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Alexia',
+              href: 'https://web2.alexiaedu.com/ACWeb/LogOn.aspx?key=UgVruuxXs3Y%3d',
             },
           ],
         },
