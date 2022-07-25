@@ -10,6 +10,8 @@
   position: relative;
   overflow: hidden;
   background-image: url(https://rix.dev/i/WhatsApp%20Image%202022-07-25%20at%204.50.52%20PM.jpeg);
+  width: 966px;
+  height: 300px;
 }
 
 @media screen and (max-width: 966px) {
