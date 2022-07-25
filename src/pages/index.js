@@ -12,8 +12,8 @@ const features = [
     imageUrl: 'img/casa.png',
     description: (
       <>
-        Babestu eta iragazi edukia haien adinerako egokiak ez diren 
-        orrialde gaiztoak bisitatzea eragotziz.
+        Proteja y filtre el contenido evitando que visiten páginas 
+        maliciosas no aptas para su edad..
       </>
     ),
   },
@@ -22,8 +22,9 @@ const features = [
     imageUrl: 'img/audience.png',
     description: (
       <>
-        Hezkuntza-sektoreak eta familiek adingabeek Interneten 
-        nabigazioa kontrolatzeko hainbat eskakizunek bultzatuta sortu zen.
+        Creado por una serie de demandas desde el sector educativo y 
+        desde las familias para el control de la navegación en internet 
+        realizada por los menores.
       </>
     ),
   },
@@ -32,8 +33,8 @@ const features = [
     imageUrl: 'img/school.png',
     description: (
       <>
-        Irakasleak ikasle bakoitzaren nabigazioaren eta gailuaren 
-        erabileraren kontrol osoa izango du berehalako ekintzen bidez.
+        El profesorado tendrá el control absoluto de la navegación de cada 
+        alumno y el uso del dispositivo mediante acciones inmediatas..
       </>
     ),
   },
