@@ -18,7 +18,7 @@ const features = [
     ),
   },
   {
-    title: <>Pensado en los Alumnos</>,
+    title: <>Pensado para los Alumnos</>,
     imageUrl: 'img/audience.png',
     description: (
       <>
