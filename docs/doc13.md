@@ -1,5 +1,5 @@
 ---
 id: aplicacion
-title: APLICACION
+title: APLICACIÓN
 ---
 
