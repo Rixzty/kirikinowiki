@@ -25,6 +25,7 @@ Jarraian, egin duguna aplikatzeko gailu batera, klikatuko dugu **Eremua: Gailuak
 
 :::caution
 Aldaketak gordetzeko, gogoratu **Aldaketak aplikatu✅** sakatu behar duzula, bestela ez dira aldaketak gordeko.
+:::
 
 ![imagen](https://i.ibb.co/YT18QS6/GUZTIZ-LIBRE4.jpg)
 
@@ -32,6 +33,6 @@ Azkenik, editatzen ari garen lehen orrialdea berriro kargatuko zaigu. Behin heme
 
 :::caution
 Guztia gordetzeko, ✅ klikatu.
-::
+:::
 
 ![imagen](https://i.ibb.co/BT0Rhwv/GUZTIZ-LIBRE5.jpg)
