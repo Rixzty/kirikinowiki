@@ -7,7 +7,7 @@ Orain, interneteko filtroak sortzeko, goian ezker aldean dauden hiru lerroetan k
 
 ![imagen](https://i.ibb.co/VmqPyfb/GUZTIZ-LIBRE1.jpg)
 
-## FILTROA SORTU
+## ZEREGINAREN SORKUNTZA
 
 Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun filtroak, izanez gero. Klikatu behar da **Berria sortu**, goian ezkerrean kokatuta dago.
 
@@ -20,6 +20,8 @@ Aukera egin ondoren, sakatu ✅
 :::
 
 ![imagen](https://i.ibb.co/cxVc9SD/GUZTIZ-LIBRE3.jpg)
+
+## APLIKAZIOA
 
 Jarraian, egin duguna aplikatzeko gailu batera, klikatuko dugu **Eremua: Gailuak**. Ezkerrean agertuko zaizkizue zuen seme-alaben izenak. Haien izenen ondoko **+** -a sakatuz, haien izena eskuinera mugituko, horrela, aplikatuko dela baieztatuko dugu.
 
