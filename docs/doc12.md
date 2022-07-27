@@ -13,7 +13,7 @@ Después de eso, se nos cargará la página, y nos aparecerán los filtros que y
 
 ![imagen](https://i.ibb.co/nzSj42X/LIBRE-TOTAL2.jpg)
 
-Tras eso, encontramos la opción de ponerle **Nombre**, aquí seleccionamos el nombre que queramos. **Tarea**, en este apartado, seleccionamos la tarea que queramos, para añadir a **Internet** o a **Youtube** un filtro previamente creado, tendremos que seleccionar **Internet/Youtube (Otro Filtro)**. En el apartado de **Ámbito**, seleccionamos **Por Dispositivos**. Por último, **Hora** y **Días**, aquí, seleccionaremos a la hora a la que queremos que se aplique el filtro, situados un poco más abajo, nos encontramos con todos los días de la semana donde tendréis que seleccionar los días que queráis que se aplique el filtro.
+Tras eso, encontramos la opción de ponerle **Nombre**, aquí seleccionamos el nombre que queramos. **Tarea**, en este apartado, seleccionamos la tarea que queramos, para añadir a **Internet** o a **Youtube** un filtro previamente creado, tendremos que seleccionar **Internet/Youtube (Otro Filtro)**. En el apartado de **Ámbito**, seleccionamos **Por Dispositivos**. Por último, **Hora** y **Días**, aquí, seleccionaremos a la hora a la que queremos que se aplique el filtro. Situados un poco más abajo, nos encontramos con todos los días de la semana donde tendréis que seleccionar los días que queráis que se aplique el filtro.
 
 :::info
 Tras hacer la elección pulsa ✅.
