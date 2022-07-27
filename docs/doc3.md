@@ -1,9 +1,7 @@
 ---
 id: galderak
-title: Galdera Arruntak
+title: GALDERA ARRUNTAK
 ---
-
-# Galdera Arruntak
 
 ### IMTLazarus egonkorra da?
 Bai, IMTLazarus OVHcloud-en ostatua dago, hortaz, oso arraroak dira webgunearen jausierak. Jausiera bat egongo balitz, funtzionatzen segituko litzateke baita ere.
