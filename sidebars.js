@@ -1,12 +1,12 @@
 module.exports = {
   someSidebar: {
     Sarrera: ['hasiera', 'erabilera'],
-	  Informazioa: ['galderak'],
-		Filtroak: ['filtro-yt', 'filtro-internet', 'filtro-librea'],
+	Filtroak: ['filtro-yt', 'filtro-internet', 'filtro-librea'],
+	  	Informazioa: ['galderak'],
   },
   EspañolSidebar: {
     Introducción: ['comienzo', 'funcionamiento'],
-	    Información: ['faq'],
-	        Filtros: ['yt-filtro', 'internet-filtro', 'filtro-libre'],
+	Filtros: ['yt-filtro', 'internet-filtro', 'filtro-libre'],
+	  	Información: ['faq'],
   },
 };
