@@ -7,7 +7,7 @@ Ahora, para la creación del filtro Libre Total, clicamos las tres líneas que t
 
 ![imagen](https://i.ibb.co/3zpKKkY/LIBRE-TOTAl1.jpg)
 
-##CREAR EL FILTRO
+## CREAR EL FILTRO
 
 Después de eso, se nos cargará la página, y nos aparecerán los filtros que ya tenemos creados en el caso de que tengamos alguno. Lo que hay que hacer es clicar en **Crear Nueva**, situado arriba a la izquierda.
 
