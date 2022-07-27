@@ -13,7 +13,7 @@ Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun f
 
 ![imagen](https://i.ibb.co/twfR5b1/GUZTIZ-LIBRE2.jpg)
 
-Honen ondoren, **Izena** jartzeko aukera izango dugu, hemen nahi dugun izena jar dezakegu. **Zeregina**, hemen,  aukeratuko dugu jarri nahi dezakegun zeregina, **Youtubeko** edo **Interneteko** filtroa ezertzeko, aurretik sortutakoa, aukeratu beharrekoa, **Internet/Youtube (Other FIlter)**. **Eremuan**, aukeratu beharrekoa **Gailuengatik** da. Azkenik, **Orduak** eta **Egunak**, hemen, filtroa zein ordutan aplikatu nahi dugun hautatuko dugu. Apur bat beherago kokatuta, asteko egun guztiak aurkitzen ditugu, non filtroa aplikatu nahi duzun egunak hautatu beharko dituzun.
+Honen ondoren, **Izena** jartzeko aukera izango dugu, hemen nahi dugun izena jar dezakegu. **Zeregina**, hemen,  aukeratuko dugu jarri nahi dezakegun zeregina, **Youtubeko** edo **Interneteko** filtroa esertzeko, aurretik sortutakoa, aukeratu beharrekoa, **Internet/Youtube (Other FIlter)**. **Eremuan**, aukeratu beharrekoa **Gailuengatik** da. Azkenik, **Orduak** eta **Egunak**, hemen, filtroa zein ordutan aplikatu nahi dugun hautatuko dugu. Apur bat beherago kokatuta, asteko egun guztiak aurkitzen ditugu, non filtroa aplikatu nahi duzun egunak hautatu beharko dituzun.
 
 :::info
 Aukera egin ondoren, sakatu ✅
