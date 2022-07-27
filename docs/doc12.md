@@ -7,7 +7,7 @@ Ahora, para la creación del filtro Libre Total, clicamos las tres líneas que t
 
 ![imagen](https://i.ibb.co/3zpKKkY/LIBRE-TOTAl1.jpg)
 
-## CREAR EL FILTRO
+## CREACIÓN DE LA TAREA
 
 Después de eso, se nos cargará la página, y nos aparecerán los filtros que ya tenemos creados en el caso de que tengamos alguno. Lo que hay que hacer es clicar en **Crear Nueva**, situado arriba a la izquierda.
 
@@ -19,6 +19,8 @@ Tras eso, encontramos la opción de ponerle **Nombre**, aquí seleccionamos el n
 Tras hacer la elección pulsa ✅.
 :::
 ![imagen](https://i.ibb.co/yV4BMTr/LIBRE-TOTAl3.jpg)
+
+## APLICACIÓN
 
 A continuación, para poder añadir lo realizado a un dispositivo, clicamos en **Ámbito:Dispositivos** . Os aparecerá en la izquierda el nombre/los nombre de vuestros/as hijos/hijas. Pulsar el **+** situado al lado del nombre de tu hijos/hijas y ahora se moverá a la derecha, de este modo confirmaremos que se aplicará.
 
