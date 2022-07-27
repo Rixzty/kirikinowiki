@@ -30,7 +30,7 @@ Para que los cambios se guarden recordad que tenéis que pulsar **aplicar cambio
 
 Por último, se nos volverá a cargar la primera página que estamos editando. Una vez aquí, nos aparecerá una nueva opción, **Perfil**, aquí, seleccionaremos el filtro que queramos añadir al dispositivo.
 
-:::cuation
+:::caution
 Para guardarlo todo, pulsad ✅.
 :::
 
