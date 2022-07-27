@@ -9,7 +9,7 @@ Ahora, para la creación de filtros de YouTube, clicamos las tres líneas que te
 
 ## CREAR EL FILTRO
 
-Después de eso, se nos cargará la página, y nos aparecerán los filtros que ya tenemos creados en el caso de que tengamos alguno. Lo que hay que hacer es clicar en Crear Nuevo, situado arriba a la izquierda.
+Después de eso, se nos cargará la página, y nos aparecerán los filtros que ya tenemos creados en el caso de que tengamos alguno. Lo que hay que hacer es clicar en **Crear Nuevo**, situado arriba a la izquierda.
 
 ![imagen2](https://i.ibb.co/P5mXhss/yt.png 'Logo Title Text 2')
 
