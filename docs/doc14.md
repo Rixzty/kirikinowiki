@@ -1,1 +1,5 @@
+---
+id: aplikazioa
+title: APLIKAZIOA
+---
 
