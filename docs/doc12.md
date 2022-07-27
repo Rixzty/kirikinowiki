@@ -1,6 +1,6 @@
 ---
 id: filtro-libre
-title: Filtro LLIBRE TOTAL
+title: Filtro LIBRE TOTAL
 ---
 
 Ahora, para la creación del filtro Libre Total, clicamos las tres líneas que tenemos arriba a la izquierda. Se nos abrirá un desplegable con cuatro opciones, seleccionamos la de **configuración**.  A continuación, seleccionaremos **tareas**.
