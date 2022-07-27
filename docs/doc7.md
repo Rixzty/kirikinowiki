@@ -21,7 +21,7 @@ Aukera egin ondoren, sakatu ✅
 
 ![imagen](https://i.ibb.co/cxVc9SD/GUZTIZ-LIBRE3.jpg)
 
-Jarraian, egin duguna aplikatzeko gailu batera, klikatuko dugu **Eremua: Gailuak**. Ezkerrean agertuko zaizkizue zuen seme-aleben izenak. Haien izenen ondoko**+**-a sakatuz, haien izena eskumara mugiduko da, horrela, aplikatuko dela baieztatuko dugu.
+Jarraian, egin duguna aplikatzeko gailu batera, klikatuko dugu **Eremua: Gailuak**. Ezkerrean agertuko zaizkizue zuen seme-alaben izenak. Haien izenen ondoko **+** -a sakatuz, haien izena eskuinera mugituko, horrela, aplikatuko dela baieztatuko dugu.
 
 :::caution
 Aldaketak gordetzeko, gogoratu **Aldaketak aplikatu✅** sakatu behar duzula, bestela ez dira aldaketak gordeko.
