@@ -34,7 +34,7 @@ Por último, se nos volverá a cargar la primera página que estamos editando. U
 Para guardarlo todo, pulsad ✅.
 :::
 
-![imagen]([https://ibb.co/4sJ725s](https://i.ibb.co/CJWz6TJ/LIBRE-TOTAL5.jpg)
+![imagen](https://i.ibb.co/CJWz6TJ/LIBRE-TOTAL5.jpg)
 
 
 
