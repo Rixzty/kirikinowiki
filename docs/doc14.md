@@ -3,7 +3,7 @@ id: aplikazioa
 title: APLIKAZIOA
 ---
 
-Guztiaren azken aplikazioa ez da konplexua. IMTLazarus-eko haserako orrian, hau da ikaslearen gailua ikusten dugun tokian, 9 ikono ezberdin ere ikus dezakegu. Hauek, funtzio desberdinak dituzte. Lehenengoa (WEB iragazkia) eta hirgarrena (YouTube iaragazkia), hauek biak soilik aipatuko dituguz.
+Guztiaren azken aplikazioa ez da konplexua. IMTLazarus-eko hasierako orrian, hau da ikaslearen gailua ikusten dugun tokian, 9 ikono ezberdin ere ikus dezakegu. Hauek, funtzio desberdinak dituzte. Lehenengoa (WEB iragazkia) eta hirugarrena (YouTube iragazkia), hauek biak soilik aipatuko dituguz.
 
 ![imagen](https://i.ibb.co/4fZsszS/aplikazioa1.jpg)
 
