@@ -8,7 +8,7 @@ La aplicación final de todo no es compleja. En la página de inicio, en la que 
 ![imagen](https://i.ibb.co/yqDQqKY/Aplicacion11.jpg)
 
 
-En cuanto a estos, clicando en el icono, se nos abrirán cuatro opciones. Por un lado, **el tiempo** que queramos aplicar el filtro, ya sean, minutos, horas o de modo permanente. Por otro lado la **Navegación Segura** donde el ordenador se encuentra sin ningún filtro ni cambio, esto es del mismo modo que en la Ikastola. Además, IMTLazarus cuenta con el bloqueo con lista blanca, esto es, el bloqueo total del ordenador excepto lo añadido en la lista blanca. Por último, los filtros, para añadirlos en los dispositivos, tendremos que seleccionar el dispositivo en el que queramos añadir el filtro y clicar en él.
+En cuanto a estos, clicando en el icono, se nos abrirán cuatro opciones. Por un lado, **el tiempo** que queramos aplicar el filtro, ya sean, minutos, horas o de modo permanente. Por otro lado la **Navegación Segura** donde el ordenador se encuentra sin ningún filtro ni cambio, esto es del mismo modo que en la Ikastola. Además, IMTLazarus cuenta con el bloqueo con **lista blanca**, esto es, el bloqueo total del ordenador excepto lo añadido en la lista blanca. Por último, **los filtros**, para añadirlos en los dispositivos, tendremos que seleccionar el dispositivo en el que queramos añadir el filtro y clicar en él.
 
 :::info
 En ambos apartados hay que realizar el mismo procedimiento.
