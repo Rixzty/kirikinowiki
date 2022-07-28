@@ -21,5 +21,4 @@ Oso garrantzitsua da jakitea, zereginak laguntzen dutela prosedura berdina egune
 Gogoratu beheko eskuinaldean agertzen den ✅ sakatu behar duzula dena gordetzeko.
 :::
 
-
 ![imagen](https://i.ibb.co/pvKsLFs/aplikazioa3.jpg)
