@@ -15,7 +15,7 @@ Kirikino.wiki egitea posible izan da hurrengo jendeagatik eta serbitzuengatik:
 - **[@Facebook Inc](https://facebook.com)**
 - **[@Docusaurus](https://docusaurus.io)**
 
-
+# Kontaktua
 Kontaktuan jartze, mesedez idatzi [kiriki@ikastola.eus](mailto:kiriki@ikastola.eus) edo [alearreta@kirikino.com](mailto:alearreta@kirikino.com) ordenagailuen galderarik baduzu.
 
 
