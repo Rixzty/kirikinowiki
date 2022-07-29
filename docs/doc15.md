@@ -16,7 +16,7 @@ title: WEBGUNEA
 - **[@Facebook Inc](https://facebook.com)**
 - **[@Docusaurus](https://docusaurus.io)**
 
-## kontaktua
+## Kontaktua
 Kontaktuan jartzeko, mesedez idatzi [imtgida@kirikino.com](mailto:imtgida@kirikino.com) edo [alearreta@kirikino.com](mailto:alearreta@kirikino.com) ordenagailuen galderarik baduzu. Telefonoz kontakatatzeko deitu hurrengo telefono zenbakiari **944 59 81 00**.
 
 
