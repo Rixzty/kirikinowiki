@@ -8,7 +8,6 @@ title: WEBGUNEA
 
 
 - **Ane Moreno**: Webgunearen informazioa, argazkiak eta antolakuntza.
-- **Lander De La Torre**: Webgunearen kudeaketa.
 
 - **[@Vercel](https://vercel.com)**
 - **[@GitHub](https://github.com)**
