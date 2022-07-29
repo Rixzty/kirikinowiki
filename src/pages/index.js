@@ -75,6 +75,14 @@ function Home() {
               to={useBaseUrl('docs/hasiera')}>
               Klikatu hemen!
             </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('docs/comienzo')}>
+              Haz click!
+            </Link>
           </div>
         </div>
       </header>
