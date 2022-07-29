@@ -15,7 +15,7 @@ Kirikino.wiki egitea posible izan da hurrengo jendeagatik eta serbitzuengatik:
 - **[@Facebook Inc](https://facebook.com)**
 - **[@Docusaurus](https://docusaurus.io)**
 
-# Kontaktua
+## Kontaktua
 Kontaktuan jartzeko, mesedez idatzi [kiriki@ikastola.eus](mailto:kiriki@ikastola.eus) edo [alearreta@kirikino.com](mailto:alearreta@kirikino.com) ordenagailuen galderarik baduzu. Telefonoz kontakatatzeko deitu hurrengo telefono zenbakiari **944 59 81 00**.
 
 
