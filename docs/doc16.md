@@ -17,4 +17,4 @@ Ha sido posible crear **Kirikino.wiki** gracias a las siguientes personas/servic
 - **[@Docusaurus](https://docusaurus.io)**
 
 ## Contacto
-Para ponerte en contacto, mandanos un email a [imtgida@kirikino.com](mailto:imtgida@kirikino.com) o [alearreta@kirikino.com](mailto:alearreta@kirikino.com) para preguntas sobre los ordenadores. Para contactarnos por telefono, llame al siguiente número de teléfono **944 59 81 00**.
+Para ponerte en contacto con la Ikastola, mandanos un email a [imtgida@kirikino.com](mailto:imtgida@kirikino.com) o [alearreta@kirikino.com](mailto:alearreta@kirikino.com) para preguntas o dudas sobre IMTLazarus. Para contactarnos por telefono, llama al siguiente número de teléfono **944 59 81 00**.
