@@ -15,7 +15,7 @@ Bi ataletan, prozedura berdina egin  behar da.
 
 ![imagen](https://i.ibb.co/RgFn3Bn/aplikazioa2.jpg)
 
-Oso garrantzitsua da jakitea, zereginak laguntzen dutela prosedura berdina egunero egiteko beharra ez izatea, bertatik, [hemen](https://kirikino.wiki/docs/filtro-librea) asalduta dagoen prosedura jarraituz, bakarrik geldituko litzateke **Zeregin Aktibatua** jartzen duen tokian klikatzea, beheko ezker aldean kokatuta dagoena. Modu honetan automatikoki apliaktuko da.
+Oso garrantzitsua da jakitea, zereginak laguntzen dutela prosedura berdina egunero egiteko beharra ez izatea, bertatik, [hemen](https://kirikino.wiki/docs/filtro-librea) asalduta dagoen prosedura jarraituz, bakarrik geldituko litzateke **Zeregin Aktibatua** jartzen duen tokian klikatzea, beheko ezker aldean kokatuta dagoena. Modu honetan automatikoki aplikatuko da.
 
 :::caution
 Gogoratu beheko eskuinaldean agertzen den ✅ sakatu behar duzula dena gordetzeko.
