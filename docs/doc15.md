@@ -17,6 +17,6 @@ title: WEBGUNEA
 - **[@Cloudflare](https://cloudflare.com)**
 
 ## Kontaktua
-Kontaktuan jartzeko, mesedez idatzi [imtgida@kirikino.com](mailto:imtgida@kirikino.com) edo [alearreta@kirikino.com](mailto:alearreta@kirikino.com) ordenagailuen galderarik baduzu. Telefonoz kontakatatzeko deitu hurrengo telefono zenbakiari **944 59 81 00**.
+Ikastolarekin kontaktuan jartzeko, mesedez idatzi [imtgida@kirikino.com](mailto:imtgida@kirikino.com) edo [alearreta@kirikino.com](mailto:alearreta@kirikino.com) IMTLazarus-en galdera edo zalantzarik baduzu. Telefonoz kontakatatzeko, deitu hurrengo telefono zenbakira **944 59 81 00**.
 
 
