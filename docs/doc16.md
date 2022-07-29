@@ -1,5 +1,5 @@
 ---
-id: paáginaweb
+id: paginaweb
 title: PÁGINA WEB
 ---
 
