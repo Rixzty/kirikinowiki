@@ -3,7 +3,7 @@ id: webgunea
 title: WEBGUNEA
 ---
 
-# ESKERRAL ETA AITORPENAK
+# ESKERRAK ETA AITORPENAK
 **Kirikino.wiki** egitea posible izan da hurrengoengatik:
 
 
