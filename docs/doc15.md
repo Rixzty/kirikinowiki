@@ -4,7 +4,7 @@ title: WEBGUNEA
 ---
 
 # Eskerrak eta aitorpenak
-Kirikino.wiki egitea posible izan da hurrengo jendeagatik eta serbitzuengatik:
+**Kirikino.wiki** egitea posible izan da hurrengoengatik:
 
 
 - **Ane Moreno**: Webgunearen informazioa, argazkiak eta antolakuntza.
