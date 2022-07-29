@@ -3,7 +3,7 @@ id: webgunea
 title: WEBGUNEA
 ---
 
-# ESKERRAK ETA AITORPENAK
+# Eskerrak eta aitorpenak
 **Kirikino.wiki** egitea posible izan da hurrengoengatik:
 
 
@@ -15,7 +15,7 @@ title: WEBGUNEA
 - **[@Facebook Inc](https://facebook.com)**
 - **[@Docusaurus](https://docusaurus.io)**
 
-## KONTAKTUA
+## kontaktua
 Kontaktuan jartzeko, mesedez idatzi [imtgida@kirikino.com](mailto:imtgida@kirikino.com) edo [alearreta@kirikino.com](mailto:alearreta@kirikino.com) ordenagailuen galderarik baduzu. Telefonoz kontakatatzeko deitu hurrengo telefono zenbakiari **944 59 81 00**.
 
 
