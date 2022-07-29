@@ -3,7 +3,7 @@ module.exports = {
     Sarrera: ['hasiera', 'erabilera'],
 	Filtroak: ['filtro-yt', 'filtro-internet', 'filtro-librea'],
 	  	Aplikazioa: ['aplikazioa'],
-	  		Informazioa: ['galderak'],
+	  		Informazioa: ['galderak', 'webgunea'],
   },
   EspañolSidebar: {
     Introducción: ['comienzo', 'funcionamiento'],
