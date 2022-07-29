@@ -9,7 +9,7 @@ Sarbidean gaudenean, klik egingo dugu **He olvidado mi password** eta gure email
  
 ![Sarbidea](https://i.ibb.co/qrRrZK2/Captura-de-Pantalla-2022-05-25-a-las-22-40-58.png)
 
-Behin emaila sartuta eta klik eginda "Enviar" botoia sakartu eta email bat helduko zaizue.
+Behin emaila sartuta eta klik eginda "Enviar" botoia sakatu eta email bat helduko zaizue.
 
 :::danger
 
