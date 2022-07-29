@@ -7,7 +7,8 @@ title: PÁGINA WEB
 Ha sido posible crear **Kirikino.wiki** gracias a las siguientes personas/servicios:
 
 
-- **Ane Moreno**: Información de la página, imagenes y organización
+- **Ane Moreno**: Información de la página, imagenes y organización.
+- **Lander De la Torre**: Administración de la página.
 
 - **[@Vercel](https://vercel.com)**
 - **[@GitHub](https://github.com)**
