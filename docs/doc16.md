@@ -15,5 +15,5 @@ Ha sido posible crear **Kirikino.wiki** gracias a las siguientes personas/servic
 - **[@Facebook Inc](https://facebook.com)**
 - **[@Docusaurus](https://docusaurus.io)**
 
-## Kontaktua
+## Contacto
 Para ponerte en contacto, mandanos un email a [imtgida@kirikino.com](mailto:imtgida@kirikino.com) o [alearreta@kirikino.com](mailto:alearreta@kirikino.com) para preguntas sobre los ordenadores. Para contactarnos por telefono, llame al siguiente número de teléfono **944 59 81 00**.
