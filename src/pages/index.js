@@ -75,7 +75,6 @@ function Home() {
               to={useBaseUrl('docs/hasiera')}>
               Klikatu hemen!
             </Link>
-<br>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
