@@ -8,7 +8,7 @@ title: WEBGUNEA
 
 
 - **Ane Moreno**: Webgunearen informazioa, argazkiak eta antolakuntza.
-- **Lander de la Torre**: Kudeaketa, programazioa eta eraikuntza.
+- **Lander de la Torre**: Programazioa eta kudeaketa.
 - **[@Bibbl, Inc](https://bibbl.app)**
 - **[@Vercel](https://vercel.com)**
 - **[@GitHub](https://github.com)**
