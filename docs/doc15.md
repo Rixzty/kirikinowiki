@@ -8,10 +8,9 @@ title: WEBGUNEA
 
 
 - **Ane Moreno**: Webgunearen informazioa, argazkiak eta antolakuntza.
-
+- **[@Bibbl, Inc](https://bibbl.app)**
 - **[@Vercel](https://vercel.com)**
 - **[@GitHub](https://github.com)**
-- **[@Bibbl, Inc](https://bibbl.app)**
 - **[@Facebook Inc](https://facebook.com)**
 - **[@Docusaurus](https://docusaurus.io)**
 - **[@Cloudflare](https://cloudflare.com)**
