@@ -90,7 +90,7 @@ module.exports = {
               href: 'https://web2.alexiaedu.com/ACWeb/LogOn.aspx?key=UgVruuxXs3Y%3d',
             },
             {
-              label: 'Aviso-legal',
+              label: 'Aviso legal',
               href: 'https://kirikino.wiki/img/aviso-legal.pdf',
             },
           ],
