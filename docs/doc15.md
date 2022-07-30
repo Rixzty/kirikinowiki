@@ -21,4 +21,6 @@ Ikastolarekin kontaktuan jartzeko, mesedez idatzi [imtgida@kirikino.com](mailto:
 
 Arazorik balego webgunearekin, copyrightarekin, edo lizentziekin mesedez kontaktuan jarri Bibbl, Inc-egaz: **[admin@bibbl.app](mailto:admin@bibbl.app)** edo **[hello@bibbl.app](mailto:hello@bibbl.app)**.
 
+Lege oharraren informazioa jakin nahi baduzu, egin click hemen: [Lege-oharra](https://kirikino.wiki/img/aviso-legal.pdf)
+
 
