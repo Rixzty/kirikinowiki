@@ -1,5 +1,6 @@
 module.exports = {
   title: 'IMTGida',
+  description: 'Kirikiño Ikastolako wikia, hemen aurkituko duzu informazioa IMTLazarus-ari buruz.',
   tagline: 'IMTLazarus-aren erabilera',
   url: 'https://kirikinowiki-github-io.vercel.app/',
   baseUrl: '/',
