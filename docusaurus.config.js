@@ -1,6 +1,5 @@
 module.exports = {
   title: 'IMTGida',
-  description: 'Kirikiño Ikastolako wikia, hemen aurkituko duzu informazioa IMTLazarus-ari buruz.',
   tagline: 'IMTLazarus-aren erabilera',
   url: 'https://kirikinowiki-github-io.vercel.app/',
   baseUrl: '/',
@@ -8,6 +7,7 @@ module.exports = {
   organizationName: 'rixzty', // Usually your GitHub org/user name.
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
   themeConfig: {
+    metadata: [{name: 'keywords', content: 'chromebook, ikastola, imt, imtlazarus'}],
     navbar: {
       title: 'IMTGida',
       logo: {
