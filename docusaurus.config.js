@@ -92,7 +92,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} <b>Kirikiño Ikastola</b>. Kudeaketa <b>Bibbl, Inc.</b>`,
+      copyright: `Copyright © ${new Date().getFullYear()} <b>Kirikiño Ikastola</b>. Eraiketa eta kudeaketa <b>Bibbl, Inc.</b>`,
     },
   },
   presets: [
