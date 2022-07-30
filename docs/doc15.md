@@ -19,6 +19,6 @@ title: WEBGUNEA
 ## Kontaktua
 Ikastolarekin kontaktuan jartzeko, mesedez idatzi [imtgida@kirikino.com](mailto:imtgida@kirikino.com) edo [alearreta@kirikino.com](mailto:alearreta@kirikino.com) IMTLazarus-en galdera edo zalantzarik baduzu. Telefonoz kontakatatzeko, deitu hurrengo telefono zenbakira **944 59 81 00**.
 
-Arazorik balego webgunearekin, copyrightarekin, edo lizentziekin mesedez kontaktuan jarri Bibbl, Inc-egaz: **admin@bibbl.app** edo **hello@bibbl.app**.
+Arazorik balego webgunearekin, copyrightarekin, edo lizentziekin mesedez kontaktuan jarri Bibbl, Inc-egaz: **[admin@bibbl.app](mailto:admin@bibbl.app)** edo **[hello@bibbl.app](mailto:hello@bibbl.app)**.
 
 
