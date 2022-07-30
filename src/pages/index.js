@@ -61,7 +61,7 @@ function Home() {
   return (
     <Layout
       title={`Kirikiño Ikastola`}
-      description="Description will go into a meta tag in <head />">
+      description="Kirikiño Ikastolako wikia, hemen aurkituko duzu IMTLazarus-aren informazioa.">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
