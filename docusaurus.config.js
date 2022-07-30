@@ -31,11 +31,6 @@ module.exports = {
           type: "localeDropdown",
           position: "right"
         },
-        {
-          href: 'https://github.com/Rixzty/kirikinowiki.github.io',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     i18n: {
