@@ -50,7 +50,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Garrantzitsuak',
+          title: 'Páginas web',
           items: [
             {
               label: 'IMTLazarus',
@@ -63,7 +63,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Sare sozialak',
+          title: 'Redes sociales',
           items: [
             {
               label: 'Instagram',
@@ -80,7 +80,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Gehiago',
+          title: 'Otros',
           items: [
             {
               label: 'Bloga',
