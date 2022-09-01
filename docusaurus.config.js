@@ -130,8 +130,8 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          hideable: false,
-          autoCollapseCategories: false,
+          hideable: true,
+          autoCollapseCategories: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/Rixzty/kirikinowiki.github.io/blob/main/',
