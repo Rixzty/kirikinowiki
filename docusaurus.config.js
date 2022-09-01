@@ -7,6 +7,7 @@ module.exports = {
   organizationName: 'rixzty', // Usually your GitHub org/user name.
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
   themeConfig: {
+    defaultMode: 'light',
     metadata: [{name: 'keywords', content: 'chromebook, ikastola, imt, imtlazarus'}],
     navbar: {
       title: 'IMTGida',
