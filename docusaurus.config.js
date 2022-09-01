@@ -2,7 +2,7 @@ module.exports = {
   title: 'IMTGida',
   tagline: 'IMTLazarus-aren erabilera',
   url: 'https://kirikinowiki-github-io.vercel.app/',
-  baseUrl: '/',
+  baseUrl: 'docs/',
   favicon: 'https://www.kirikino.eus/sites/default/files/favicon.png',
   organizationName: 'rixzty', // Usually your GitHub org/user name.
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
@@ -142,26 +142,6 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
-        eu: {
-          path: 'eu',
-          routeBasePath: 'eu',
-          sidebarPath: require.resolve('./sidebars.js'),
-          hideable: true,
-          autoCollapseCategories: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/Rixzty/kirikinowiki.github.io/blob/main/',
-        },
-        es: {
-          path: 'es',
-          routeBasePath: 'es',
-          sidebarPath: require.resolve('./sidebars.js'),
-          hideable: true,
-          autoCollapseCategories: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/Rixzty/kirikinowiki.github.io/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
