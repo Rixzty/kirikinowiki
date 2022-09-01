@@ -8,6 +8,9 @@ module.exports = {
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
   themeConfig: {
     defaultMode: 'light',
+    algolia: {
+      contextualSearch: true,
+    },
     metadata: [{name: 'keywords', content: 'chromebook, ikastola, imt, imtlazarus'}],
     navbar: {
       title: 'IMTGida',
