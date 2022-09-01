@@ -2,7 +2,7 @@ module.exports = {
   title: 'IMTGida',
   tagline: 'IMTLazarus-aren erabilera',
   url: 'https://kirikinowiki-github-io.vercel.app/',
-  baseUrl: '/docs/',
+  baseUrl: '/',
   favicon: 'https://www.kirikino.eus/sites/default/files/favicon.png',
   organizationName: 'rixzty', // Usually your GitHub org/user name.
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
@@ -41,13 +41,13 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/hasiera',
+          to: 'docs/eu/hasiera',
           activeBasePath: 'docs',
           label: 'Euskera',
           position: 'left',
         },
         {
-          to: 'docs/comienzo',
+          to: 'docs/es/comienzo',
           activeBasePath: 'docs',
           label: 'Español',
           position: 'left',
