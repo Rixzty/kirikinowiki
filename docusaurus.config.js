@@ -156,7 +156,7 @@ module.exports = {
         id: 'eu',
         path: 'eu',
         routeBasePath: 'eu',
-        sidebarPath: require.resolve('./sidebarsCommunity.js'),
+        sidebarPath: require.resolve('./sidebars.js'),
         // ... other options
       },
     ],
