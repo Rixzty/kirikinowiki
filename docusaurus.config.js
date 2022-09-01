@@ -41,13 +41,13 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/eu/hasiera',
+          to: 'docs/hasiera',
           activeBasePath: 'docs',
           label: 'Euskera',
           position: 'left',
         },
         {
-          to: 'docs/es/comienzo',
+          to: 'docs/comienzo',
           activeBasePath: 'docs',
           label: 'Español',
           position: 'left',
