@@ -1,6 +1,7 @@
 ---
 id: yt-filtro
 title: FILTRO DE YOUTUBE
+sidebar_label: Filtro de YouTube
 ---
 
 Ahora, para la creación de filtros de YouTube, clicamos las tres líneas que tenemos arriba a la izquierda. Se nos abrirá un desplegable con cuatro opciones, seleccionamos la de **configuración**. A continuación, se nos volverá a abrir otro desplegable, en el que seleccionaremos en este caso **YouTube**.
