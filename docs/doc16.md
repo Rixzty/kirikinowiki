@@ -1,6 +1,7 @@
 ---
 id: paginaweb
 title: PÁGINA WEB
+sidebar_label: Página Web
 ---
 
 # Agradecimientos y reconocimientos
