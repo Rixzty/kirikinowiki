@@ -1,6 +1,7 @@
 ---
 id: erabilera
 title: ERABILERA
+sidebar_label: Erabilera
 ---
 
 IMTLazarus erabilera konplexua du. Hasteko zihurtatu behar gara pasahitza aldatu dugula gure IMT-eko sarbidean. Horretarako, egin klik [hemen](https://kirikino.imtlazarus.com/lazarus/recoverypass.php) eta sartu zure emaila. Kontuan izan **Alexiako** email berdina erabili beharko duzula, emaila lotuta dagolako.
