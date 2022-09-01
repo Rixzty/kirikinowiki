@@ -1,6 +1,7 @@
 ---
 id: hasiera
 title: HASIERA
+sidebar_label: Hasiera
 ---
 
 # IMTLazarus
