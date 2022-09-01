@@ -149,26 +149,4 @@ module.exports = {
       },
     ],
   ],
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'eu',
-        path: 'eu',
-        routeBasePath: 'eu',
-        sidebarPath: require.resolve('./sidebars.js'),
-        // ... other options
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'es',
-        path: 'es',
-        routeBasePath: 'es',
-        sidebarPath: require.resolve('./sidebars.js'),
-        // ... other options
-      },
-    ],
-  ],
 };
