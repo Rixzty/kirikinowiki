@@ -1,6 +1,7 @@
 ---
 id: filtro-internet
 title: INTERNETEKO FILTROA
+sidebar_label: Interneteko Filtroa
 ---
 
 Orain, interneteko filtroak sortzeko, goian ezker aldean dauden hiru lerroetan klikatuko dugu. Lau aukera  irekiko zaizkigu, aukeratu beharrekoa, **konfigurazioa** da. Jarraian, beste aukeraketa bat irekiko zaigu, non kasu honetan **Nabigazioa** hautatuko dugu. 
