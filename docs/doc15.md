@@ -1,6 +1,7 @@
 ---
 id: webgunea
 title: WEBGUNEA
+sidebar_label: Webgunea
 ---
 
 # Eskerrak eta aitorpenak
