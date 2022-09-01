@@ -129,6 +129,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           hideable: true,
           autoCollapseCategories: true,
@@ -143,6 +144,7 @@ module.exports = {
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         eu: {
+          path: 'eu',
           sidebarPath: require.resolve('./sidebars.js'),
           hideable: true,
           autoCollapseCategories: true,
@@ -151,6 +153,7 @@ module.exports = {
             'https://github.com/Rixzty/kirikinowiki.github.io/blob/main/',
         },
         es: {
+          path: 'es',
           sidebarPath: require.resolve('./sidebars.js'),
           hideable: true,
           autoCollapseCategories: true,
