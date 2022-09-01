@@ -1,6 +1,7 @@
 ---
 id: comienzo
 title: COMIENZO
+sidebar_label: Comienzo
 ---
 
 # IMTLazarus
