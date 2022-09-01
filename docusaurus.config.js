@@ -13,7 +13,7 @@ module.exports = {
       logo: {
         alt: 'Kirikiño',
         src: 'img/kirikilogo.png',
-        srcDark: 'img/kirikinologo.png',
+        srcDark: 'img/kirikino-ikastola-oina.png',
       },
       links: [
         {
