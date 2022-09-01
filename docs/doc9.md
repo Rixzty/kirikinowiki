@@ -1,6 +1,7 @@
 ---
 id: faq
 title: PREGUNTAS FRECUENTES
+sidebar_label: Preguntas Frecuentes
 ---
 ### **IMTLazarus es estable?**
 
