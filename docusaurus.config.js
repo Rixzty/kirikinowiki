@@ -9,7 +9,27 @@ module.exports = {
   themeConfig: {
     defaultMode: 'light',
     algolia: {
+      // The application ID provided by Algolia
+      appId: 'Z4H9UOVJ6L',
+
+      // Public API key: it is safe to commit it
+      apiKey: '650ebae25310a02d5e918d61b4d72f33',
+
+      indexName: 'kiriki_dev',
+
+      // Optional: see doc section below
       contextualSearch: true,
+
+      // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+      externalUrlRegex: {},
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+
+      //... other Algolia params
     },
     metadata: [{name: 'keywords', content: 'chromebook, ikastola, imt, imtlazarus'}],
     navbar: {
