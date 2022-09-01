@@ -1,6 +1,7 @@
 ---
 id: aplicacion
 title: APLICACIÓN
+sidebar_label: Aplicación
 ---
 
 La aplicación final de todo no es compleja. En la página de inicio, en la que nos sale el dispositivo de los/las alumnos/as, también nos aparecen 9 iconos distintos. Estos, tienen funciones distintas. Solo mencionaremos la primera (filtro de navegación) y la tercera (filtros YouTube). 
