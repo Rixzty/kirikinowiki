@@ -145,6 +145,7 @@ module.exports = {
         },
         eu: {
           path: 'eu',
+          routeBasePath: 'eu',
           sidebarPath: require.resolve('./sidebars.js'),
           hideable: true,
           autoCollapseCategories: true,
@@ -154,6 +155,7 @@ module.exports = {
         },
         es: {
           path: 'es',
+          routeBasePath: 'es',
           sidebarPath: require.resolve('./sidebars.js'),
           hideable: true,
           autoCollapseCategories: true,
