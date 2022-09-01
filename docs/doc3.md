@@ -1,6 +1,7 @@
 ---
 id: galderak
 title: GALDERA ARRUNTAK
+sidebar_label: Galdera Arruntak
 ---
 
 ### IMTLazarus egonkorra da?
