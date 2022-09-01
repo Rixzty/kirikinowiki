@@ -1,6 +1,7 @@
 ---
 id: filtro-yt
 title: YOUTUBEKO FILTROA
+sidebar_label: Youtubeko Filtroa
 ---
 
 Orain, YouTubeko filtroak sortzeko, goian ezker aldean dauden hiru lerroetan klikatuko dugu. Lau aukera irekiko zaizkigu, aukeratu beharrekoa, **konfigurazioa** da. Jarraian, beste aukeraketa bat irekiko zaigu, non kasu honetan **Youtube** hautatuko dugu.
