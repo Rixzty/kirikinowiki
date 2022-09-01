@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'IMTLazarus-aren erabilera',
   url: 'https://kirikinowiki-github-io.vercel.app/',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://www.kirikino.eus/sites/default/files/favicon.png',
   organizationName: 'rixzty', // Usually your GitHub org/user name.
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
   themeConfig: {
