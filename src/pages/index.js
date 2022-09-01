@@ -12,8 +12,8 @@ const features = [
     imageUrl: 'img/casa.png',
     description: (
       <>
-        Proteja y filtre el contenido evitando que visiten páginas 
-        maliciosas no aptas para su edad..
+        <center>Proteja y filtre el contenido evitando que visiten páginas 
+        maliciosas no aptas para su edad</center>
       </>
     ),
   },
@@ -22,9 +22,9 @@ const features = [
     imageUrl: 'img/audience.png',
     description: (
       <>
-        Creado por una serie de demandas desde el sector educativo y 
+        <center>Creado por una serie de demandas desde el sector educativo y 
         desde las familias para el control de la navegación en internet 
-        realizada por los menores.
+        realizada por los menores</center>
       </>
     ),
   },
@@ -33,8 +33,8 @@ const features = [
     imageUrl: 'img/school.png',
     description: (
       <>
-        El profesorado tendrá el control absoluto de la navegación de cada 
-        alumno y el uso del dispositivo mediante acciones inmediatas..
+        <center>El profesorado tendrá el control absoluto de la navegación de cada 
+        alumno y el uso del dispositivo mediante acciones inmediatas</center>
       </>
     ),
   },
