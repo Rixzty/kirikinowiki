@@ -7,6 +7,14 @@ module.exports = {
   organizationName: 'rixzty', // Usually your GitHub org/user name.
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
   themeConfig: {
+    announcementBar: {
+      id: 'suport_es',
+      content:
+        'Este sitio web utiliza cookies para ayudarnos a mejorar. Haga clic en "aceptar" para permitirnos continuar usando cookies.',
+      backgroundColor: '#11993F',
+      textColor: '#FFFFFF',
+      isCloseable: true,
+    },
     defaultMode: 'light',
     algolia: {
       // The application ID provided by Algolia
