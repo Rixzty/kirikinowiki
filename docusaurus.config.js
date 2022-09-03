@@ -31,7 +31,7 @@ module.exports = {
 
       //... other Algolia params
     },
-    metadata: [{name: 'keywords', content: 'chromebook, ikastola, imt, imtlazarus'}],
+    metadata: [{name: 'keywords', content: 'chromebook, ikastola, imt, imtlazarus, kirikiño, kirikino'}],
     navbar: {
       title: 'IMTGida',
       logo: {
