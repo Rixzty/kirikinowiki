@@ -21,7 +21,7 @@ module.exports = {
         'Parece que el sitio web está tardando más de lo normal en cargar..',
       backgroundColor: '#e33434',
       textColor: '#FFFFFF',
-      isCloseable: true,
+      isCloseable: false,
     },
     defaultMode: 'light',
     algolia: {
