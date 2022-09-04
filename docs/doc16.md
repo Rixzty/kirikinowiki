@@ -9,7 +9,7 @@ Ha sido posible crear **Kirikino.wiki** gracias a las siguientes personas/servic
 
 
 - **Ane Moreno**: Información de la página, imagenes y organización.
-- **[@Bibbl, Inc](https://bibbl.app)**
+- **[@Bibbl, Inc](https://bib.ovh)**
 - **[@Vercel](https://vercel.com)**
 - **[@GitHub](https://github.com)**
 - **[@Bibbl, Inc](https://bibbl.app)**
