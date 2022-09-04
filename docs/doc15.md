@@ -9,7 +9,7 @@ sidebar_label: Webgunea
 
 
 - **Ane Moreno**: Webgunearen informazioa, argazkiak eta antolakuntza.
-- **[@Bibbl, Inc](https://bibbl.app)**
+- **[@Bibbl, Inc](https://bib.ovh)**
 - **[@Vercel](https://vercel.com)**
 - **[@GitHub](https://github.com)**
 - **[@Facebook Inc](https://facebook.com)**
