@@ -6,7 +6,7 @@ sidebar_label: Comienzo
 
 # IMTLazarus
 
-En esta Web encontrarás toda la información de IMTLazarus, como usarlo, información, etc.
+En esta Web encontrarás toda la información sobre IMTLazarus, como usarlo, información, etc.
 
 ## INFORMACIÓN GENERAL
 
