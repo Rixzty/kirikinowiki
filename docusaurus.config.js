@@ -15,14 +15,6 @@ module.exports = {
       textColor: '#FFFFFF',
       isCloseable: true,
     },
-    announcementBar: {
-      id: 'suport_es',
-      content:
-        'Parece que el sitio web está tardando más de lo normal en cargar..',
-      backgroundColor: '#e33434',
-      textColor: '#FFFFFF',
-      isCloseable: false,
-    },
     defaultMode: 'light',
     algolia: {
       // The application ID provided by Algolia
