@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <><center>Protección</center></>,
+    title: <><center>PROTECCIÓN PARA LAS FAMILIAS</center></>,
     imageUrl: 'img/casa.png',
     description: (
       <>
@@ -18,7 +18,7 @@ const features = [
     ),
   },
   {
-    title: <><center>Alumnos</center></>,
+    title: <><center>PENSADO EN LOS ALUMNOS</center></>,
     imageUrl: 'img/audience.png',
     description: (
       <>
@@ -29,7 +29,7 @@ const features = [
     ),
   },
   {
-    title: <><center>Seguridad</center></>,
+    title: <><center>SEGURIDAD EN EL CENTRO EDUCATIVO</center></>,
     imageUrl: 'img/school.png',
     description: (
       <>
