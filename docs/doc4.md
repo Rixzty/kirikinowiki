@@ -10,11 +10,11 @@ Orain, YouTubeko filtroak sortzeko, goian ezker aldean dauden hiru lerroetan kli
 
 ## FILTROA SORTU
 
-Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun filtroak, izanez gero. Klikatu behar da Berria sortu, goian ezkerrean kokatuta dago.
+Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun filtroak, izanez gero. Klikatu behar da **Crear Nuevo**, goian ezkerrean kokatuta dago.
 
 ![imagen2](https://i.ibb.co/YZfDmx7/Captura-de-pantalla-2022-07-17-141500.png 'Logo Title Text 2')
 
-Gero, filtroari deskribapena eta izena jartzeko aukera agertuko zaigu, izena jartzea beharrezkoa da, aldiz deskribapena jartzea aukerakoa da. 
+Gero, filtroari deskribapena eta izena jartzeko aukera agertuko zaigu. Izena jartzea beharrezkoa da, aldiz deskribapena aukerakoa da. 
 
 :::info
 
@@ -29,12 +29,12 @@ Jarraian, filtroa egokitu behar da bakoitzak nahi duen erara.
 :::caution
 Aldaketak gordetzeko, gogoratu ✅ sakatu behar duzula, bestela ez dira aldaketak gordeko.
 :::
-* Murrizketa orokorrak: Hemen, bloketau daiteke YouTube aplikazioa, helduentzako edukia edo bertako elementuren bat.
+* **Murrizketa orokorrak:** Hemen, bloketau daiteke YouTube aplikazioa, helduentzako edukia edo bertako elementuren bat.
 ![imagen4](https://i.ibb.co/ygrYCh1/youtube-filtros.png 'Logo Title Text 4')
-* Kategorien arabera blokeatu daiteke: Bloqueatu nahi dituzunak, aukeratu.
+* **Kategorien arabera blokeatu daiteke:** Bloqueatu nahi dituzun kategoriak.
 ![imagen5](https://i.ibb.co/4RhvkRX/Captura-de-pantalla-2022-07-17-140242.png 'Logo Title Text 5')
-* Hitzak eta esaldiak: Nahi dituzun hitzak/esaldiak blokeatzeko idatzi eta **+** sakatu.
+* **Hitzak eta esaldiak:** Nahi dituzun hitzak/esaldiak blokeatzeko idatzi eta **+** sakatu.
 ![imagen6](https://i.ibb.co/jLFCmyG/Captura-de-pantalla-2022-07-17-140307.png 'Logo Title Text 6')
-* Youtube kanalak eta bideoak: Nahi dituzun kanalak/bideoak blokeatzeko idatzi bere url-a eta **+** sakatu.
+* **Youtube kanalak eta bideoak:** Nahi dituzun kanalak/bideoak blokeatzeko idatzi bere url-a eta **+** sakatu.
 ![imagen7](https://i.ibb.co/S5f125y/Captura-de-pantalla-2022-07-17-140344.png 'Logo Title Text 7')
 ![imagen8](https://i.ibb.co/JjMsckD/Captura-de-pantalla-2022-07-17-140410.png 'Logo Title Text 8')
