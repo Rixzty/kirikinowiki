@@ -34,5 +34,5 @@ A continuación, se personaliza el filtro a gusto de cada uno/a.
 ![imagen6](https://i.ibb.co/YtZRF5G/Navegacion-urls.png 'Logo Title Text 6')
 
 :::info 
-**Clicando [aquí](https://kirikino.wiki/docs/yt-filtro#adaptaci%C3%B3n-del-filtro) ,accedereis directamente al filtro de Youtube, donde encontraréis explicaciones más detalladas sobre la adaptación del filtro, siempre y cuando os sea necesario.**
+**Clicando [aquí](https://kirikino.wiki/docs/yt-filtro#adaptaci%C3%B3n-del-filtro) ,accedereis directamente al filtro de Youtube, donde encontraréis explicaciones más detalladas sobre la adaptación del filtro, siempre y cuando os sean necesarias.**
 :::
