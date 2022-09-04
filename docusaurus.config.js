@@ -129,7 +129,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} <b>Kirikiño Ikastola</b>.`,
+      copyright: `Copyright © ${new Date().getFullYear()} <b>Kirikiño Ikastola</b>`,
     },
   },
   presets: [
