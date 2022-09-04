@@ -28,13 +28,13 @@ A continuación, se personaliza el filtro a gusto de cada uno/a.
 :::caution
 **Para que los cambios se guarden recordad que tenéis que pulsar el ✅, sino no se guardarán los cambios.**
 :::
-* Restricciones Generales: Aquí, se puede bloquear la aplicación de Youtube, el contenido adulto y/o algún elemento de la web.
+* **Restricciones Generales:** Aquí, se puede bloquear la aplicación de Youtube, el contenido adulto y/o algún elemento de la web.
 ![imagen4](https://i.ibb.co/bg7qGCv/youu-tube.png 'Logo Title Text 4')
-* Bloqueo por Categorías: Bloquea las categorías que quieras, tu eliges.
+* **Bloqueo por Categorías:** Bloquea las categorías que quieras, tu eliges.
 ![imagen5](https://i.ibb.co/gd5zQz8/filtro-yt.png 'Logo Title Text 5')
-* Palabras / Frases: Bloquea las palabras/frases que quieras, para ello escríbela/s y pulsa **+**.
+* **Palabras / Frases:** Bloquea las palabras/frases que quieras, para ello escríbela/s y pulsa **+**.
 ![imagen6](https://i.ibb.co/stxmDD3/filtro-youtube.png 'Logo Title Text 6')
-* Canales y videos de YouTube: Para bloquear algún canal/video, escribe su url y pulsa **+**.
+* **Canales y videos de YouTube:** Para bloquear algún canal/video, escribe su url y pulsa **+**.
 ![imagen7](https://i.ibb.co/yghqnCj/filtro-youutube.png 'Logo Title Text 7')
 ![imagen8](https://i.ibb.co/FXjQFpm/youtube-filtroo.png 'Logo Title Text 8')
 
