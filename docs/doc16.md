@@ -20,6 +20,6 @@ Ha sido posible crear **Kirikino.wiki** gracias a las siguientes personas/servic
 ## Contacto
 Para ponerte en contacto con la Ikastola, mandanos un email a [imtgida@kirikino.com](mailto:imtgida@kirikino.com) o [alearreta@kirikino.com](mailto:alearreta@kirikino.com) para preguntas o dudas sobre IMTLazarus. Para contactarnos por telefono, llama al siguiente número de teléfono **944 59 81 00**.
 
-Si hay algún problema con el sitio web, los derechos de autor o las licencias, comuníquese con Bibbl, Inc. en **[admin@bibbl.app](mailto:admin@bibbl.app)** o **[hello@bibbl.app](mailto:hello@bibbl.app)**.
+Si hay algún problema con el sitio web, los derechos de autor o las licencias, comuníquese con Bibbl, Inc. en **[hello@bibbl.app](mailto:hello@bibbl.app)**.
 
 Para saber más información sobre el aviso legal haga click aquí: [Aviso legal](https://kirikino.wiki/img/aviso-legal.pdf)
