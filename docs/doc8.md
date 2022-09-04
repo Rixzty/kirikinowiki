@@ -13,4 +13,4 @@ Una vez en el inicio, clicaremos en **He olvidado mi password** y a continuació
 Puede ser que el correo os llegue al apartado **SPAM**, por ello, si tras esperar unos minutos no veis ningún correo, consultar ese apartado.
 :::
 
-Después, clica el link y crea una nueva contraseña. Una vez hecho eso, vuelve al [inicio](https://kirikino.imtlazarus.com/lazarus). Una vez ahí, pon el email y la contraseña y podrás entrar dentro del panel, donde os aparecerá el Chromebook de vuestros/as hijos/as para administrarlo.
+Después, clica el link y crea una nueva contraseña. Una vez hecho eso, vuelve al [inicio](https://kirikino.imtlazarus.com/lazarus). Desde ahí, pon el email y la contraseña y podrás entrar dentro del panel, donde os aparecerá el Chromebook de vuestros/as hijos/as para administrarlo.
