@@ -29,7 +29,7 @@ const features = [
     ),
   },
   {
-    title: <><center>SEGURIDAD EN EL CENTRO EDUCATIVO</center></>,
+    title: <><center>SEGURIDAD EN EL CENTRO</center></>,
     imageUrl: 'img/school.png',
     description: (
       <>
