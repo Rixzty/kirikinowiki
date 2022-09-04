@@ -16,10 +16,10 @@ Webgune honetan IMTLazarus-en informazio guztia topatuko duzu, erabilera, inform
 
 * IMTLazarus-ek, hainbat filtro ditu, filtro hauek aldatu ahal dira eta zuen gustura jarri ahal dituzuez.
 
-* Azkenengoz, sistemak, pantailari argazkiak egiten dio segunduro, orduan ikusi ahalko duzue zuen seme/alabek zer egiten hari diren edozein momentutan, honekin batera, historial bat aurki dezakezue eta edonoiz begiratu ahal da, edozein momentuan zer egiten egon den ikusteko.
+* Azkenengoz, sistemak pantailari argazkiak egiten dio segunduro. Hori dela eta, ikusi ahalko duzue zuen seme/alabek zer egiten hari diren edozein momentutan. Honekin batera, historial bat aurki dezakezue eta edonoiz begiratu ahal izango duzue, edozein momentuan nahi duzuena begiratzeko.
 
 ## Erabilera
-Sistema honek oso erabilera konplexua du, webgune propio bat du non Alexia-ko emailarekin saioa hasi ahalko duzu.
+Sistema honek oso erabilera konplexua du, webgune propio bat du non Alexia-ko emailarekin saioa hasi ahalko duzue.
 
 :::caution
 
