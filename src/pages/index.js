@@ -8,33 +8,32 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <><center>PROTECCIÓN PARA LAS FAMILIAS</center></>,
+    title: <><center>FAMILIENTZAKO BABESA</center></>,
     imageUrl: 'img/casa.png',
     description: (
       <>
-        <center>Proteja y filtre el contenido evitando que visiten páginas 
-        maliciosas no aptas para su edad</center>
+        <center>Babestu eta iragazi edukia haien adinerako desegokiak diren
+        orrialde maltzurren bisitak saihestuz</center>
       </>
     ),
   },
   {
-    title: <><center>PENSADO EN LOS ALUMNOS</center></>,
+    title: <><center>IKASLEENTZAKO PENTSATUTA</center></>,
     imageUrl: 'img/audience.png',
     description: (
       <>
-        <center>Creado por una serie de demandas desde el sector educativo y 
-        desde las familias para el control de la navegación en internet 
-        realizada por los menores</center>
+        <center>Hezkuntza-sektoreak eta familiek adingabeen Interneten 
+        abigazioa kontrolatzeko hainbat eskakizunek sortua</center>
       </>
     ),
   },
   {
-    title: <><center>SEGURIDAD EN EL CENTRO</center></>,
+    title: <><center>SEGURTASUNA ZENTROAN</center></>,
     imageUrl: 'img/school.png',
     description: (
       <>
-        <center>El profesorado tendrá el control absoluto de la navegación de cada 
-        alumno y el uso del dispositivo mediante acciones inmediatas</center>
+        <center>Irakasleek ikasle bakoitzaren nabigazioa eta gailuaren 
+        erabileraren erabateko kontrola izango dute berehalako ekintzen bidez</center>
       </>
     ),
   },
