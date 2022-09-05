@@ -4,17 +4,17 @@ title: GUZTIZ LIBRE FILTROA
 sidebar_label: Guztiz Libre Filtroa
 ---
 
-Orain, interneteko filtroak sortzeko, goian ezker aldean dauden hiru lerroetan klikatuko dugu. Lau aukera irekiko zaizkigu, aukeratu beharrekoa, **konfigurazioa** da. Jarraian, aukeratu **zereginak**.
+Orain, guztiz libre filtroa sortzeko, goian ezker aldean dauden hiru lerroetan klikatuko dugu. Lau aukera irekiko zaizkigu, aukeratu beharrekoa, **konfigurazioa** da. Jarraian, aukeratu **zereginak**.
 
 ![imagen](https://i.ibb.co/VmqPyfb/GUZTIZ-LIBRE1.jpg)
 
 ## ZEREGINAREN SORKUNTZA
 
-Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun filtroak, izanez gero. Klikatu behar da **Berria sortu**, goian ezkerrean kokatuta dago.
+Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun zereginak, izanez gero. Klikatu behar da **Crear Nueva**, goian ezkerrean kokatuta dago.
 
 ![imagen](https://i.ibb.co/twfR5b1/GUZTIZ-LIBRE2.jpg)
 
-Honen ondoren, **Izena** jartzeko aukera izango dugu, hemen nahi dugun izena jar dezakegu. **Zeregina**, hemen,  aukeratuko dugu jarri nahi dezakegun zeregina, **Youtubeko** edo **Interneteko** filtroa esertzeko, aurretik sortutakoa, aukeratu beharrekoa, **Internet/Youtube (Other FIlter)**. **Eremuan**, aukeratu beharrekoa **Gailuengatik** da. Azkenik, **Orduak** eta **Egunak**, hemen, filtroa zein ordutan aplikatu nahi dugun hautatuko dugu. Apur bat beherago kokatuta, asteko egun guztiak aurkitzen ditugu, non filtroa aplikatu nahi duzun egunak hautatu beharko dituzun.
+Honen ondoren, **Izena** jartzeko aukera izango dugu, hemen nahi dugun izena jar dezakegu. **Zeregina**, hemen,  aukeratuko dugu jarri nahi dugun zeregina. Aurretik sortutako **Youtubeko** edo **Interneteko** filtroa esertzeko, aukeratu, **Internet/Youtube (Other FIlter)**. **Eremuan**, aukeratu beharrekoa **Gailuengatik** da. Azkenik, **Orduak** eta **Egunak**, hemen, filtroa zein ordutan aplikatu nahi dugun hautatuko dugu. Apur bat beherago kokatuta, asteko egun guztiak aurkitzen ditugu, non filtroa aplikatu nahi duzun egunak hautatu beharko ditugun.
 
 :::info
 Aukera egin ondoren, sakatu ✅
@@ -24,7 +24,7 @@ Aukera egin ondoren, sakatu ✅
 
 ## APLIKAZIOA
 
-Jarraian, egin duguna aplikatzeko gailu batera, klikatuko dugu **Eremua: Gailuak**. Ezkerrean agertuko zaizkizue zuen seme-alaben izenak. Haien izenen ondoko **+** -a sakatuz, haien izena eskuinera mugituko, horrela, aplikatuko dela baieztatuko dugu.
+Jarraian, egin duguna aplikatzeko gailu batera, klikatuko dugu **Eremua: Gailuak**. Ezkerrean agertuko zaizkizue zuen seme-alaben izenak. Haien izenen ondoko **+**- a sakatuz. Izena eskuinera mugituko da, horrela, aplikatuko dela baieztatuko dugu.
 
 :::caution
 Aldaketak gordetzeko, gogoratu **Aldaketak aplikatu✅** sakatu behar duzula, bestela ez dira aldaketak gordeko.
