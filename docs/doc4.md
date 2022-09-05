@@ -26,7 +26,7 @@ Aukera egin ondoren, sakatu ✅
 
 Jarraian, filtroa egokitu behar da bakoitzak nahi duen erara. 
 
-:::cautionaadi!
+:::cautionadi!
 Aldaketak gordetzeko, gogoratu ✅ sakatu behar duzula, bestela ez dira aldaketak gordeko.
 :::
 * **Murrizketa orokorrak:** Hemen, blokeatu daiteke YouTube aplikazioa, helduentzako edukia edo bertako elementuren bat.
