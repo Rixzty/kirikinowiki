@@ -137,6 +137,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          collapsible: false,
           collapsed: false,
           path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
