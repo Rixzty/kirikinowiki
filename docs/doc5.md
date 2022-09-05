@@ -26,7 +26,7 @@ Gero, filtroari deskribapena eta izena jartzeko aukera agertuko zaigu. Izena jar
 ## FILTROAREN EGOKITZAPENA
 Jarraian, filtroa egokitu behar da bakoitzak nahi duen erara.
 
-:::caution 
+:::cautionadi! 
 
 **Aldaketak gordetzeko, gogoratu ✅ sakatu behar duzula, bestela ez dira aldaketak gordeko.**
 
