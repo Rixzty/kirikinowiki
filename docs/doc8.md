@@ -9,7 +9,7 @@ Una vez en el inicio, clicaremos en **He olvidado mi password** y a continuació
 
 ![Sarbidea](https://i.ibb.co/4KKSBBm/IMT-lazarus.png)
 
-:::info
+:::dangercuidado!
 Puede ser que el correo os llegue al apartado **SPAM**, por ello, si tras esperar unos minutos no veis ningún correo, consultar ese apartado.
 :::
 
