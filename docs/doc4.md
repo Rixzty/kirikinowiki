@@ -29,9 +29,9 @@ Jarraian, filtroa egokitu behar da bakoitzak nahi duen erara.
 :::caution
 Aldaketak gordetzeko, gogoratu ✅ sakatu behar duzula, bestela ez dira aldaketak gordeko.
 :::
-* **Murrizketa orokorrak:** Hemen, bloketau daiteke YouTube aplikazioa, helduentzako edukia edo bertako elementuren bat.
+* **Murrizketa orokorrak:** Hemen, blokeatu daiteke YouTube aplikazioa, helduentzako edukia edo bertako elementuren bat.
 ![imagen4](https://i.ibb.co/ygrYCh1/youtube-filtros.png 'Logo Title Text 4')
-* **Kategorien arabera blokeatu daiteke:** Bloqueatu nahi dituzun kategoriak.
+* **Kategorien arabera blokeatu daiteke:** Blokeatu nahi dituzun kategoriak.
 ![imagen5](https://i.ibb.co/4RhvkRX/Captura-de-pantalla-2022-07-17-140242.png 'Logo Title Text 5')
 * **Hitzak eta esaldiak:** Nahi dituzun hitzak/esaldiak blokeatzeko idatzi eta **+** sakatu.
 ![imagen6](https://i.ibb.co/jLFCmyG/Captura-de-pantalla-2022-07-17-140307.png 'Logo Title Text 6')
