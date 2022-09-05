@@ -13,7 +13,7 @@ Honen ondoren, orrialdea kargatuko zaigu eta agertuko zaizkigu sortuta ditugun f
 
 ![imagen2](https://i.ibb.co/0tRzD6r/Screenshot-2022-07-14-17-30-59.png 'Logo Title Text 2')
 
-Gero, filtroari deskribapena eta izena jartzeko aukera agertuko zaigu. Izena jartzea beharrezkoa da, aldiz deskribapena jartzea aukerakoa da. Behean, 3 aukera agertuko zaizkigu, lehenengoan, bakoitzak bere filtroa zerotik egiteko da. Hurrengo biak, orrialdeak berak, IMT Labarus, eskainitako filtroak, edo ikastetxearen eskutikoak. 
+Gero, filtroari deskribapena eta izena jartzeko aukera agertuko zaigu. Izena jartzea beharrezkoa da, aldiz deskribapena jartzea aukerakoa da. Behean, 3 aukera agertuko zaizkigu, lehenengoan, bakoitzak bere filtroa zerotik egiteko da. Hurrengo biak, orrialdeak berak, IMT Lazarus, eskainitako filtroak, edo ikastetxearen eskutikoak. 
 
 :::info
 
