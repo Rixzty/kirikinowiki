@@ -21,6 +21,6 @@ Webgune honetan IMTLazarus-en informazio guztia topatuko duzu, erabilera, inform
 ## Erabilera
 Sistema honek oso erabilera konplexua du, webgune propio bat du non Alexia-ko emailarekin saioa hasi ahalko duzue.
 
-:::caution
+:::caution ADI!
 
 Gu **Kirikiño Ikastola**, zuen email pertsonalak ez dituguz saretik banatuko ezta inori emango, sistema honek integrazio bat du, non emailak automatikoki sartu dituela zuen kontuak izateko IMTLazarus kudeatzeko.
