@@ -5,7 +5,7 @@ sidebar_label: Preguntas Frecuentes
 ---
 ### **IMTLazarus es estable?**
 
-Si, IMTLazarus está creado en OVHcloud, por ello, es muy extraño que haya caídas en la web. En el caso de haber una caída, seguirá funcionando igualmente.
+Si, IMTLazarus está creado en OVHcloud, por ello, es muy complicado que haya caídas en la web. En el caso de haber una caída, seguirá funcionando igualmente.
 
 ### **¡Es una violacion de la intimidad!**
 
