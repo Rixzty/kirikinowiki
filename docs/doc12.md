@@ -25,7 +25,7 @@ Tras hacer la elección pulsa ✅.
 
 A continuación, para poder añadir lo realizado a un dispositivo, clicamos en **Ámbito:Dispositivos**. Os aparecerá a la izquierda el nombre/nombres de vuestros/as hijos/hijas. Pulsa el **+** situado al lado del nombre de tus hijos/hijas y se moverá a la derecha, de este modo confirmaremos que se aplicará al dsipositivo.
 
-:::caution
+:::cautionatentos/as!
 Para que los cambios se guarden, recordad que tenéis que pulsar **aplicar cambios ✅**, sino no se guardarán los cambios.
 :::
 
@@ -33,7 +33,7 @@ Para que los cambios se guarden, recordad que tenéis que pulsar **aplicar cambi
 
 Por último, se nos volverá a cargar la primera página que estamos editando. Una vez aquí, nos aparecerá una nueva opción, **Perfil**. Aquí, seleccionaremos el filtro previamente cerado que queramos añadir.
 
-:::caution
+:::cautionatentos/as!
 Para guardarlo todo, pulsad ✅.
 :::
 
