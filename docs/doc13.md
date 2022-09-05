@@ -19,7 +19,7 @@ En ambos apartados hay que realizar el mismo procedimiento.
 
 Es muy importante saber, que las tareas te ayudan a no tener que estar realizando a diario este proceso, ya que desde ahí, tras hacer el procedimiento explicado [aqui](https://kirikino.wiki/docs/filtro-libre), solamente quedaría clicar en **Tarea Activa**, situada en la parte inferior izquierda. De este modo se aplicara automáticamente.
 
-:::caution
+:::cautionatentos/as!
 Recuerda pulsar el ✅ que aparece en la parte inferior derecha para guardarlo todo.
 :::
 
