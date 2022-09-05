@@ -12,7 +12,7 @@ module.exports = {
     announcementBar: {
       id: 'suport_es',
       content:
-        'Este sitio web utiliza cookies para mejorar la experiencia de los usuarios. <a href="https://www.kirikino.eus/es/politica-de-cookies">Más info.</a>',
+        'Webgune honek cookieak erabiltzen ditu erabiltzailearen esperientzia hobetzeko. <a href="https://www.kirikino.eus/es/politica-de-cookies">Informazio gehio</a>',
       backgroundColor: '#11993F',
       textColor: '#FFFFFF',
       isCloseable: true,
