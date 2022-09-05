@@ -7,6 +7,7 @@ module.exports = {
   organizationName: 'rixzty', // Usually your GitHub org/user name.
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
   themeConfig: {
+    sidebarCollapsible: false,
     announcementBar: {
       id: 'suport_es',
       content:
