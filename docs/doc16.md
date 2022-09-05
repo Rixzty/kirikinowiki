@@ -12,8 +12,7 @@ Ha sido posible crear **Kirikino.wiki** gracias a las siguientes personas/servic
 - **[@Bibbl, Inc](https://bib.ovh)**
 - **[@Vercel](https://vercel.com)**
 - **[@GitHub](https://github.com)**
-- **[@Bibbl, Inc](https://bibbl.app)**
-- **[@Facebook Inc](https://facebook.com)**
+- **[@Facebook, Inc](https://facebook.com)**
 - **[@Docusaurus](https://docusaurus.io)**
 - **[@Cloudflare](https://cloudflare.com)**
 
