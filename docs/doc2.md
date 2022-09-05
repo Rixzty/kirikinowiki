@@ -12,7 +12,7 @@ Sarbidean gaudenean, klik egingo dugu **He olvidado mi password** eta gure email
 
 Behin emaila sartuta eta klik eginda, "Enviar" botoia sakatu eta email bat helduko zaizue.
 
-:::danger
+:::danger KONTUZ!
 
 Izan daiteke **SPAM** fitxategira heltzea, hortaz, ez bazaizue heltzen 2 minututan, fitxategia egiaztatu.
 
