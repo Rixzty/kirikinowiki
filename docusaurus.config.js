@@ -43,7 +43,6 @@ module.exports = {
     },
     metadata: [{name: 'keywords', content: 'chromebook, ikastola, imt, imtlazarus, kirikiño, kirikino'}],
     navbar: {
-      title: 'IMTGida',
       logo: {
         alt: 'Kirikiño',
         src: 'img/kirikilogo.png',
