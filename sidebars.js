@@ -9,6 +9,6 @@ module.exports = {
     Introducción: ['comienzo', 'funcionamiento'],
 	Filtros: ['yt-filtro', 'internet-filtro', 'filtro-libre'],
 	  	Aplicación: ['aplicacion'],
-	  		Información: ['faq', 'paginaweb'],
+	  		Información: ['faq', 'web'],
   },
 };
