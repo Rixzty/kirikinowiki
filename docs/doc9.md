@@ -7,7 +7,7 @@ sidebar_label: Preguntas Frecuentes
 
 Si, IMTLazarus está creado en OVHcloud, por ello, es muy complicado que haya caídas en la web. En el caso de haber una caída, seguirá funcionando igualmente.
 
-### **¡Es una violacion de la intimidad!**
+### **¡Es una violacion de la privacidad!**
 
 IMTLazarus tiene el permiso del Gobierno de España para hacer fotos a la pantalla y para tener bajo control los ordenadores. Los trabajadores de IMTLazarus, no tienen acceso a los ordenadores, sin embargo los profesores y padres si.
 
