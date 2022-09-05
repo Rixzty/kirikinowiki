@@ -1,5 +1,5 @@
 ---
-id: paginaweb
+id: web
 title: PÁGINA WEB
 sidebar_label: Página Web
 ---
