@@ -22,6 +22,6 @@ En esta Web encontrarás toda la información sobre IMTLazarus, como usarlo, inf
 
 Este sistema tiene un uso muy complejo, tiene una web propia en la cual podréis acceder con vuestro correo de Alexia.
 
-:::cuidado
+:::caution
 Nosotros, Kirikiño Ikastola, no vamos a distribuir vuestros correos personales por la red, ni a dárselos a nadie. Este sistema tiene una integración, donde se ingresan automáticamente los correos electrónicos para administrar vuestras cuentas en IMTLazarus.
 :::
