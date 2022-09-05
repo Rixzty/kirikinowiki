@@ -26,7 +26,7 @@ Aukera egin ondoren, sakatu ✅
 
 Jarraian, egin duguna aplikatzeko gailu batera, klikatuko dugu **Eremua: Gailuak**. Ezkerrean agertuko zaizkizue zuen seme-alaben izenak. Haien izenen ondoko **+**- a sakatuz. Izena eskuinera mugituko da, horrela, aplikatuko dela baieztatuko dugu.
 
-:::caution
+:::cautionadi!
 Aldaketak gordetzeko, gogoratu **Aldaketak aplikatu✅** sakatu behar duzula, bestela ez dira aldaketak gordeko.
 :::
 
@@ -34,7 +34,7 @@ Aldaketak gordetzeko, gogoratu **Aldaketak aplikatu✅** sakatu behar duzula, be
 
 Azkenik, editatzen ari garen lehen orrialdea berriro kargatuko zaigu. Behin hemen, aukera berri bat agertuko zaigu, **Profila**, non gailuari gehitu nahi diogun filtroa hautatuko dugu.
 
-:::caution
+:::cautionadi!
 Guztia gordetzeko, ✅ klikatu.
 :::
 
