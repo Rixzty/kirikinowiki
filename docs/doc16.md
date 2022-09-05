@@ -22,4 +22,4 @@ Para ponerte en contacto con la Ikastola, mandanos un email a [imtgida@kirikino.
 
 Si hay algún problema con el sitio web, los derechos de autor o las licencias, comuníquese con Bibbl, Inc. en **[hello@bibbl.app](mailto:hello@bibbl.app)**.
 
-Para saber más información sobre el aviso legal haga click aquí: [Aviso legal](https://kirikino.wiki/img/aviso-legal.pdf)
+Para tener más información sobre el aviso legal haga click aquí: [Aviso legal](https://kirikino.wiki/img/aviso-legal.pdf)
