@@ -23,7 +23,7 @@ Tras eso, encontramos la opción de ponerle nombre y descripción al filtro, el 
 ## ADAPTACIÓN DEL FILTRO
 A continuación, se personaliza el filtro a gusto de cada uno/a.
 
-:::caution 
+:::cautionatentos/as!
 **Para que los cambios se guarden recordad que tenéis que pulsar el ✅, sino no se guardarán los cambios.**
 :::
 
