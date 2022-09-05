@@ -12,7 +12,7 @@ sidebar_label: Webgunea
 - **[@Bibbl, Inc](https://bib.ovh)**
 - **[@Vercel](https://vercel.com)**
 - **[@GitHub](https://github.com)**
-- **[@Facebook Inc](https://facebook.com)**
+- **[@Facebook, Inc](https://facebook.com)**
 - **[@Docusaurus](https://docusaurus.io)**
 - **[@Cloudflare](https://cloudflare.com)**
 
