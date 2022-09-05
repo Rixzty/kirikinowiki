@@ -83,7 +83,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Páginas web',
+          title: 'Garrantzitsuak',
           items: [
             {
               label: 'IMTLazarus',
@@ -96,7 +96,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Redes sociales',
+          title: 'Sare sozialak',
           items: [
             {
               label: 'Instagram',
@@ -113,7 +113,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Otros',
+          title: 'Gehiago',
           items: [
             {
               label: 'Bloga',
