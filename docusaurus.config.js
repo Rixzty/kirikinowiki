@@ -8,6 +8,7 @@ module.exports = {
   projectName: 'kirikinowiki.github.io', // Usually your repo name.
   themeConfig: {
     sidebarCollapsible: false,
+    hideableSidebar: true,
     announcementBar: {
       id: 'suport_es',
       content:
