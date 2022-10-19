@@ -10,7 +10,7 @@ En esta Web encontrarás toda la información sobre IMTLazarus, como usarlo, inf
 
 ## INFORMACIÓN GENERAL
 
-* Este sistema bloquea los ordenadores y también los desbloquea. En el horario escolar, el bloqueo se pone automáticamente, y por las tarde, después de terminar la ikastola, el bloqueo se quita automáticamente siempre y cuando se cambie la configuración. La ikastola no tiene permiso para ver o configurar el perfil de ningún/a alumno/a, es algo que se deja en manos de los padres.
+* Este sistema bloquea los ordenadores y también los desbloquea. En el horario escolar, el bloqueo se pone automáticamente, y por las tardes, después de terminar la ikastola, el bloqueo se quita automáticamente siempre y cuando se cambie la configuración. La ikastola no tiene permiso para ver o configurar el perfil de ningún/a alumno/a, es algo que se deja en manos de los padres.
 
 * Una vez realizados los cambios, a diario el sistema automáticamente se desbloquea después de terminar las clases, para no tener que hacer el mismo procedimiento todos los días. De esto se encargará el sistema siempre y cuando esté programado.
 
