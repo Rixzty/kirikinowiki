@@ -13,7 +13,7 @@ module.exports = {
       id: 'suport_es',
       content:
           'Badirudi gauza batzuk ez direla funtzionatu beharko luketen moduan. Ahalik eta azkarren konpontzeko lanean ari gara!'
-      backgroundColor: '#F23A30',
+      backgroundColor: '#ff4040',
       textColor: '#FFFFFF',
       isCloseable: true,
     },
