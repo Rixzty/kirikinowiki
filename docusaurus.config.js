@@ -12,11 +12,11 @@ module.exports = {
     announcementBar: {
       id: 'suport_es',
       content:
-          'Badirudi gauza batzuk ez direla funtzionatu beharko luketen moduan. Ahalik eta azkarren konpontzeko lanean ari gara!'
+        'Badirudi gauza batzuk ez direla funtzionatu beharko luketen moduan. Ahalik eta azkarren konpontzeko lanean ari gara!',
       backgroundColor: '#ff4040',
       textColor: '#FFFFFF',
       isCloseable: true,
-    },
+      
     defaultMode: 'light',
     algolia: {
       // The application ID provided by Algolia
