@@ -7,7 +7,7 @@ IMTLazarus tiene un funcionamiento complejo. Para empezar, tenemos que asegurarn
 
 Una vez en el inicio, clicaremos en **He olvidado mi password** y a continuación tendréis que añadir el email, el de **Alexia**.
 
-![Sarbidea](https://i.ibb.co/4KKSBBm/IMT-lazarus.png)
+![Sarbidea](https://rix.dev/i/iu7xIJ.png)
 
 :::dangercuidado!
 Puede ser que el correo os llegue al apartado **SPAM**, por ello, si tras esperar unos minutos no veis ningún correo, consultar ese apartado.
