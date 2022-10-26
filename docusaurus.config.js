@@ -16,7 +16,7 @@ module.exports = {
       backgroundColor: '#ff4040',
       textColor: '#FFFFFF',
       isCloseable: true,
-      
+     },
     defaultMode: 'light',
     algolia: {
       // The application ID provided by Algolia
